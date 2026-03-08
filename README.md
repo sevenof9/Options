@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sevenof9/Options/main/notebooks/greeks_tool.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sevenof9/Options/main?labpath=greeks_tool.ipynb)
